@@ -5,7 +5,7 @@
             <p class="snippet">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque modi quibusdam odio error iusto quae, fuga, quam dolorum quisquam iste est possimus tempore veritatis minima. Perferendis blanditiis est facilis nam?</p>
             <button class="button btn">Start Looking</button>
         </div>
-        <img src="../assets/fire-extinguisher.svg" alt="" class="image">
+        <img src="~assets/svg/fire-extinguisher.svg" alt="" class="image">
     </div>
 </template>
 
@@ -16,7 +16,7 @@
 </script>
 
 <style scoped>
-    .Hero {
+    .hero-container {
         height: 50vh;
         position: relative;
         display: flex;
