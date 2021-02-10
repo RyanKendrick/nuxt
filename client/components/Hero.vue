@@ -4,6 +4,7 @@
             <h1 class="header">Find Your Fire Extinguisher</h1>
             <p class="snippet">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque modi quibusdam odio error iusto quae, fuga, quam dolorum quisquam iste est possimus tempore veritatis minima. Perferendis blanditiis est facilis nam?</p>
             <button class="button btn">Start Looking</button>
+            <button class="button btn">Start Looking</button>
         </div>
         <img src="~assets/svg/fire-extinguisher.svg" alt="" class="image">
     </div>
